@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# .. except preferences
+!.gitignore
+!Preferences.sublime-settings
+
+# .. and packages
+!Package Control.sublime-settings
+!Anaconda.sublime-settings
